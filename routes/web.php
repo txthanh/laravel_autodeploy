@@ -14,5 +14,5 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return "Xin chào các bạn";
+    return "Xin chào các bạn than men cua toi";
 });
